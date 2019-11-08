@@ -1,0 +1,42 @@
+{
+  "name": "csvfile",
+  "version": "0.0.1",
+  "description": "This package will provide some utilities for CSV file",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaw1236/csvfile"
+  },
+  "keywords": [
+    "csv",
+    "file",
+    "Excel"
+  ],
+  "author": {
+    "name": "Simon Li"
+  },
+  "readme": "# Provide simple csv file utilities",
+  "readmeFilename": "README.md",
+  "dependencies": { 
+        "fs": "0.0.1-security",
+        "read-excel-file": "4.0.3",
+        "fast-csv": "3.4.0"
+  },
+  "devDependencies": {
+        "fs": "0.0.1-security",
+        "read-excel-file": "4.0.3",
+        "fast-csv": "3.4.0"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/shaw1236/csvfile/issues"
+  },
+  "homepage": "https://github.com/shaw1236/csvfile",
+  "_id": "csvfile@0.0.1",
+  "scripts": {},
+  "_shasum": "db9a913c2f8893d477472647917493f2c0949adb",
+  "_from": "csvfile@"
+}
